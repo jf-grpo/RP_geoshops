@@ -1,10 +1,11 @@
-# RP_geoshops
-***
-I completed this project using realpython.com tutorials found here:
-***
+# RP_geoshops  
+
+I completed this project using realpython.com tutorials found here:  
+
 [Make a Location-Based Web App With Django and GeoDjango](https://realpython.com/location-based-app-with-geodjango-tutorial/)  
 
-[Bonus video tutorial](https://realpython.com/courses/make-location-based-web-app-django-and-geodjango/)  
+[Bonus video tutorial](https://realpython.com/courses/make-location-based-web-app-django-and-geodjango/) 
+ 
 ## Key steps
 * Postgresql:
     * Install on your OS.
